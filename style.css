@@ -1,0 +1,18 @@
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+body{
+    background: rgb(252,248,255);
+    background: linear-gradient(90deg, rgba(252,248,255,1) 0%, rgba(255,255,255,1) 30%, rgba(255,255,255,1) 70%, rgba(252,248,255,1) 100%);
+}
