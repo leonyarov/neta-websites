@@ -1,0 +1,17 @@
+body{
+    margin-left: 5%;
+    margin-right: 10%;
+    
+}
+
+div{
+    border: 5px solid black;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    padding: 3%;
+}
+
+h2{
+    
+}
